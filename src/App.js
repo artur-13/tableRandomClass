@@ -4,7 +4,7 @@ import 'dayjs/locale/ru';
 
 import './App.css';
 const apiUrl =
-  'https://script.google.com/macros/s/AKfycbx3dycTBKZ6dZ9hr_-HzBDyD3rTspFkpYxAwkHaM56aTyrA13ZL_vsmidmUQ9PmCes/exec';
+  'https://script.google.com/macros/s/AKfycbxjw-KWNqyccNS9iaFP2txWLVddyJI22Yh6cyl3ts_sR5JJQc-nDDX3G4PVOYgDbfk6/exec';
 
 const App = () => {
   useEffect(() => {
